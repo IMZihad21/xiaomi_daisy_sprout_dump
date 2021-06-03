@@ -1,0 +1,14 @@
+# daisy-user 9 PKQ1.180917.001 V10.0.20.0.PDLMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: daisy_sprout
+- flavor: daisy-user
+- release: 9
+- id: PKQ1.180917.001
+- incremental: V10.0.20.0.PDLMIXM
+- tags: release-keys
+- fingerprint: xiaomi/daisy/daisy_sprout:9/PKQ1.180917.001/V10.0.20.0.PDLMIXM:user/release-keys
+- is_ab: true
+- brand: xiaomi
+- branch: daisy-user-9-PKQ1.180917.001-V10.0.20.0.PDLMIXM-release-keys
+- repo: xiaomi_daisy_sprout_dump
